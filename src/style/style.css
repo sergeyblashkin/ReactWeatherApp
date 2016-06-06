@@ -1,0 +1,9 @@
+.search-bar {
+    margin: 20px 0;
+}
+
+.weather-table th,
+.weather-table td {
+    text-align: center;
+    vertical-align: middle;
+}
